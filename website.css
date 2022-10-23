@@ -1,0 +1,577 @@
+/**Website CSS_Talastas-Sodium**/
+
+/**nav bar**/
+.nav{
+	overflow: hidden;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.bgcolor{
+	background-color: black;
+}
+
+.navbar{
+	text-decoration: none;
+	float: right;
+	margin-right: 150px;
+	margin-top: 20px;
+	font-family: 'Droid Serif';
+	font-size: 21px;
+	color: rgb(204, 254, 204);
+    text-align: center;
+}
+
+.navbarLogo{
+	height:60px;
+	width: 300px;
+}
+
+.active{
+	color:pink;
+}
+
+/**home page**/
+.hometext1{
+	text-align: center;
+	color: pink;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 65px;
+	position: absolute;
+	top: 20%;
+	left:30%;
+}	
+
+.homeimg1{
+	position: absolute;
+	top: 50%;
+	left:10%;
+}
+
+.homeimg2{
+	width:100%;
+	height: 550px;
+}
+
+.homeimg3{
+	width: 100%;
+	height: 200px;
+}	
+
+.hometext2{
+	text-align: center;
+	color: pink;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 65px;
+	position: absolute;
+	top: 103%;
+	left:41%;
+}
+
+.hometext3{
+	text-align: center;
+	color: white;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+	position: absolute;
+	top: 123%;
+}
+
+.homeimg4{
+	width: 100%;
+	height: 1650px;
+}	
+
+.homeimg5{
+	position: absolute;
+	top: 150%;
+	left:5%;
+	height: 60%;
+	width: 35%;
+}	
+
+.hometext4{
+	text-align: center;
+	color: green;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+	position: absolute;
+	top: 150%;
+	right: 6%;
+	text-decoration-line: underline;
+}	
+
+.hometext5{
+	text-align: justify;
+	color: black;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px;
+	position: absolute;
+	top: 160%;
+	right: 5%;
+	width: 53%;
+}	
+
+.homeimg6{
+	position: absolute;
+	top: 220%;
+	left:5%;
+	height: 60%;
+	width: 35%;
+}	
+
+.hometext6{
+	text-align: center;
+	color: green;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+	position: absolute;
+	top: 220%;
+	right: 31%;
+	text-decoration-line: underline;
+}	
+
+.hometext7{
+	text-align: justify;
+	color: black;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px;
+	position: absolute;
+	top: 230%;
+	right: 5%;
+	width: 53%;
+}	
+
+.homeimg7{
+	position: absolute;
+	top: 290%;
+	left:5%;
+	height: 60%;
+	width: 35%;
+}	
+
+.hometext8{
+	text-align: center;
+	color: green;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+	position: absolute;
+	top: 290%;
+	right: 29%;
+	text-decoration-line: underline;
+}	
+
+.hometext9{
+	text-align: justify;
+	color: black;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px;
+	position: absolute;
+	top: 300%;
+	right: 5%;
+	width: 53%;
+}	
+
+.homeimg8{
+	position: absolute;
+	top: 360%;
+	left:5%;
+	height: 60%;
+	width: 35%;
+}	
+
+.hometext10{
+	text-align: center;
+	color: green;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+	position: absolute;
+	top: 360%;
+	right: 31.5%;
+	text-decoration-line: underline;
+}	
+
+.hometext11{
+	text-align: justify;
+	color: black;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+	position: absolute;
+	top: 370%;
+	right: 5%;
+	width: 53%;
+}	
+
+/**about us page**/
+.aboutimg1{
+	width:100%;
+	height: 550px;
+}
+
+.abouttext1{
+	text-align: center;
+	color: pink;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 90px;
+	position: absolute;
+	top: 20%;
+	left:39%;
+}	
+
+.aboutimg2{
+	position: absolute;
+	top: 50%;
+	left:10%;
+	height: 200px;
+	width: 1000px;
+}	
+
+.aboutimg3{
+	width: 100%;
+	height: 300px;
+}
+
+.abouttext2{
+	text-align: center;
+	color: #EEDFCC;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 53px;
+	position: absolute;
+	top: 108%;	
+	margin: 40px;
+}	
+
+.abouttext3{
+	text-align: center;
+	color: white;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+	position: absolute;
+	top: 135%;
+	margin: 20px;
+}
+
+.aboutimg4{
+	width: 100%;
+	height: 313px;
+}
+
+.abouttext4{
+	color: #81a969;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+	position: absolute;
+	top: 165%;
+	margin: 20px;
+	left:35%;
+}
+
+.abouttext5{
+	text-align: center;
+	color: black;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+	position: absolute;
+	top: 178%;
+	margin: 20px;
+	left:19.5%;
+}
+
+.abouttext6{
+	color: #81a969;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+	position: absolute;
+	top: 188%;
+	margin: 20px;
+	left:35%;
+}
+
+.abouttext7{
+	text-align: center;
+	color: black;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+	position: absolute;
+	top: 200%;
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+	left:2%;
+}
+
+.aboutimg5{
+	width: 100%;
+	height: 630px;
+}
+
+.aboutimg6{
+	width: 50%;
+	height: 313px;
+	top: 225%;
+	position: absolute;
+	left: 25%;
+}
+
+.abouttext8{
+	color: #EEDFCC;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+	position: absolute;
+	top: 280%;
+	margin: 20px;
+	left:20%;
+}
+
+.abouttext9{
+	text-align: center;
+	color: white;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+	position: absolute;
+	top: 293%;
+	margin: 20px;
+}
+
+/**quotes page**/
+.quotesimg1{
+	width:100%;
+	height: 550px;
+}
+
+.quotestext1{
+	text-align: center;
+	color: pink;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 80px;
+	position: absolute;
+	top: 20%;
+	left:30%;
+}	
+
+.quotesimg2{
+	position: absolute;
+	top: 50%;
+	left:10%;
+}	
+
+.quotesimg3{
+	height: 3465px;
+	width: 100%;
+}	
+
+.quotesimg4{
+	top: 115%;
+	width: 95%;
+	height: 300px;
+	left: 2.5%;
+	position: absolute;
+}
+
+.quotesimg5{
+	top: 175%;
+	width: 95%;
+	height: 300px;
+	left: 2.5%;
+	position: absolute;
+}
+
+.quotesimg6{
+	top: 235%;
+	width: 95%;
+	height: 300px;
+	left: 2.5%;
+	position: absolute;
+}
+
+.quotesimg7{
+	top: 295%;
+	width: 95%;
+	height: 300px;
+	left: 2.5%;
+	position: absolute;
+}
+
+.quotesimg8{
+	top: 355%;
+	width: 95%;
+	height: 300px;
+	left: 2.5%;
+	position: absolute;
+}
+
+.quotesimg9{
+	top: 415%;
+	width: 95%;
+	height: 300px;
+	left: 2.5%;
+	position: absolute;
+}
+
+.quotesimg10{
+	top: 475%;
+	width: 95%;
+	height: 300px;
+	left: 2.5%;
+	position: absolute;
+}
+
+.quotesimg11{
+	top: 535%;
+	width: 95%;
+	height: 300px;
+	left: 2.5%;
+	position: absolute;
+}
+
+.quotesimg12{
+	top: 595%;
+	width: 95%;
+	height: 300px;
+	left: 2.5%;
+	position: absolute;
+}
+
+.quotesimg13{
+	top: 655%;
+	width: 95%;
+	height: 300px;
+	left: 2.5%;
+	position: absolute;
+}
+
+/**contact page**/
+.contactimg1{
+	width:100%;
+	height: 550px;
+}
+
+.contacttext1{
+	text-align: center;
+	color: pink;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 80px;
+	position: absolute;
+	top: 20%;
+	left:37%;
+}	
+
+.contactimg2{
+	position: absolute;
+	top: 50%;
+	left:10%;
+	height: 200px;
+	width: 1000px;
+}
+
+.contactimg3{
+	width: 100%;
+	height: 550px;
+}	
+
+.contactimg4{
+	position: absolute;
+	top: 120%;
+	width: 33%;
+	height: 72%;
+	left: 5%;
+}	
+
+.contacttext3{
+	color: #81a969;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+	position: absolute;
+	top: 113%;	
+	margin: 40px;
+	left: 45%;
+	text-decoration: underline;
+}
+
+.contactimg5{
+	position: absolute;
+	left: 43%;
+	top: 132%;
+}	
+
+.contacttext4{
+	color: black;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+	position: absolute;
+	top: 134%;
+	left:52%;
+}	
+	
+.contactimg6{
+	position: absolute;
+	left: 43%;
+	top: 150%;
+}	
+
+.contacttext5{
+	color: black;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+	position: absolute;
+	top: 152%;
+	left:52%;
+}	
+
+.contactimg7{
+	position: absolute;
+	left: 43%;
+	top: 165%;
+}	
+
+.contacttext6{
+	color: black;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+	position: absolute;
+	top: 167%;
+	left:52%;
+}	
+
+.contactimg8{
+	position: absolute;
+	left: 43%;
+	top: 180%;
+}	
+
+.contacttext7{
+	color: black;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+	position: absolute;
+	top: 182%;
+	left:52%;
+}	
+
+.contactimg9{
+	position: absolute;
+	top: 140%;
+	right: 5%;
+	height: 250px;
+	width: 250px;
+}	
+	
+/**footer**/
+.footer{
+	flex-shrink: 0;
+	left:0;
+	bottom:0;
+	width: 100%;
+	text-align: center;
+}
+
+.copyright{
+	color: white;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;	
+}
